@@ -12,7 +12,7 @@ int main()
 	return 0;
 }
 
-float max(float a, float b)
+float max(float a, float b)                      // Определение функции        
 {
 	return (a > b) ? a : b;
 }
